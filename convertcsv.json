@@ -1,0 +1,762 @@
+[
+  {
+    "FIELD1":"START DATE",
+    "FIELD2":"START TIME",
+    "FIELD4":"SUBJECT"
+  },
+  {
+    "FIELD1":"04/19/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"04/20/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"04/21/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"04/22/16",
+    "FIELD2":"08:10 PM",
+    "FIELD4":"Red Sox at Astros"
+  },
+  {
+    "FIELD1":"04/23/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Red Sox at Astros"
+  },
+  {
+    "FIELD1":"04/24/16",
+    "FIELD2":"08:05 PM",
+    "FIELD4":"Red Sox at Astros"
+  },
+  {
+    "FIELD1":"04/25/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Braves"
+  },
+  {
+    "FIELD1":"04/26/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Braves"
+  },
+  {
+    "FIELD1":"04/27/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Braves at Red Sox"
+  },
+  {
+    "FIELD1":"04/28/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Braves at Red Sox"
+  },
+  {
+    "FIELD1":"04/29/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"04/30/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"05/01/16",
+    "FIELD2":"08:05 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"05/03/16",
+    "FIELD2":"08:10 PM",
+    "FIELD4":"Red Sox at White Sox"
+  },
+  {
+    "FIELD1":"05/04/16",
+    "FIELD2":"08:10 PM",
+    "FIELD4":"Red Sox at White Sox"
+  },
+  {
+    "FIELD1":"05/05/16",
+    "FIELD2":"08:10 PM",
+    "FIELD4":"Red Sox at White Sox"
+  },
+  {
+    "FIELD1":"05/06/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"05/07/16",
+    "FIELD2":"01:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"05/08/16",
+    "FIELD2":"08:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"05/09/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Athletics at Red Sox"
+  },
+  {
+    "FIELD1":"05/10/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Athletics at Red Sox"
+  },
+  {
+    "FIELD1":"05/11/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Athletics at Red Sox"
+  },
+  {
+    "FIELD1":"05/12/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Astros at Red Sox"
+  },
+  {
+    "FIELD1":"05/13/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Astros at Red Sox"
+  },
+  {
+    "FIELD1":"05/14/16",
+    "FIELD2":"01:05 PM",
+    "FIELD4":"Astros at Red Sox"
+  },
+  {
+    "FIELD1":"05/15/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Astros at Red Sox"
+  },
+  {
+    "FIELD1":"05/16/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Royals"
+  },
+  {
+    "FIELD1":"05/17/16",
+    "FIELD2":"08:15 PM",
+    "FIELD4":"Red Sox at Royals"
+  },
+  {
+    "FIELD1":"05/18/16",
+    "FIELD2":"02:15 PM",
+    "FIELD4":"Red Sox at Royals"
+  },
+  {
+    "FIELD1":"05/20/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Indians at Red Sox"
+  },
+  {
+    "FIELD1":"05/21/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Indians at Red Sox"
+  },
+  {
+    "FIELD1":"05/22/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Indians at Red Sox"
+  },
+  {
+    "FIELD1":"05/24/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rockies at Red Sox"
+  },
+  {
+    "FIELD1":"05/25/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rockies at Red Sox"
+  },
+  {
+    "FIELD1":"05/26/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rockies at Red Sox"
+  },
+  {
+    "FIELD1":"05/27/16",
+    "FIELD2":"07:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"05/28/16",
+    "FIELD2":"01:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"05/29/16",
+    "FIELD2":"01:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"05/30/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"05/31/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"06/01/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"06/02/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"06/03/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Blue Jays at Red Sox"
+  },
+  {
+    "FIELD1":"06/04/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Blue Jays at Red Sox"
+  },
+  {
+    "FIELD1":"06/05/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Blue Jays at Red Sox"
+  },
+  {
+    "FIELD1":"06/07/16",
+    "FIELD2":"10:15 PM",
+    "FIELD4":"Red Sox at Giants"
+  },
+  {
+    "FIELD1":"06/08/16",
+    "FIELD2":"10:15 PM",
+    "FIELD4":"Red Sox at Giants"
+  },
+  {
+    "FIELD1":"06/10/16",
+    "FIELD2":"08:10 PM",
+    "FIELD4":"Red Sox at Twins"
+  },
+  {
+    "FIELD1":"06/11/16",
+    "FIELD2":"02:10 PM",
+    "FIELD4":"Red Sox at Twins"
+  },
+  {
+    "FIELD1":"06/12/16",
+    "FIELD2":"02:10 PM",
+    "FIELD4":"Red Sox at Twins"
+  },
+  {
+    "FIELD1":"06/14/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"06/15/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"06/16/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"06/17/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Mariners at Red Sox"
+  },
+  {
+    "FIELD1":"06/18/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Mariners at Red Sox"
+  },
+  {
+    "FIELD1":"06/19/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Mariners at Red Sox"
+  },
+  {
+    "FIELD1":"06/20/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"White Sox at Red Sox"
+  },
+  {
+    "FIELD1":"06/21/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"White Sox at Red Sox"
+  },
+  {
+    "FIELD1":"06/22/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"White Sox at Red Sox"
+  },
+  {
+    "FIELD1":"06/23/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"White Sox at Red Sox"
+  },
+  {
+    "FIELD1":"06/24/16",
+    "FIELD2":"08:05 PM",
+    "FIELD4":"Red Sox at Rangers"
+  },
+  {
+    "FIELD1":"06/25/16",
+    "FIELD2":"09:20 PM",
+    "FIELD4":"Red Sox at Rangers"
+  },
+  {
+    "FIELD1":"06/26/16",
+    "FIELD2":"03:05 PM",
+    "FIELD4":"Red Sox at Rangers"
+  },
+  {
+    "FIELD1":"06/27/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"06/28/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"06/29/16",
+    "FIELD2":"12:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"07/01/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Angels at Red Sox"
+  },
+  {
+    "FIELD1":"07/02/16",
+    "FIELD2":"07:15 PM",
+    "FIELD4":"Angels at Red Sox"
+  },
+  {
+    "FIELD1":"07/03/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Angels at Red Sox"
+  },
+  {
+    "FIELD1":"07/04/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Rangers at Red Sox"
+  },
+  {
+    "FIELD1":"07/05/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rangers at Red Sox"
+  },
+  {
+    "FIELD1":"07/06/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rangers at Red Sox"
+  },
+  {
+    "FIELD1":"07/08/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"07/09/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"07/10/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"07/12/16",
+    "FIELD2":"07:00 PM",
+    "FIELD4":"American at National"
+  },
+  {
+    "FIELD1":"07/15/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"07/16/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"07/17/16",
+    "FIELD2":"08:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"07/19/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Giants at Red Sox"
+  },
+  {
+    "FIELD1":"07/20/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Giants at Red Sox"
+  },
+  {
+    "FIELD1":"07/21/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Twins at Red Sox"
+  },
+  {
+    "FIELD1":"07/22/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Twins at Red Sox"
+  },
+  {
+    "FIELD1":"07/23/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Twins at Red Sox"
+  },
+  {
+    "FIELD1":"07/24/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Twins at Red Sox"
+  },
+  {
+    "FIELD1":"07/25/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Tigers at Red Sox"
+  },
+  {
+    "FIELD1":"07/26/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Tigers at Red Sox"
+  },
+  {
+    "FIELD1":"07/27/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Tigers at Red Sox"
+  },
+  {
+    "FIELD1":"07/28/16",
+    "FIELD2":"10:05 PM",
+    "FIELD4":"Red Sox at Angels"
+  },
+  {
+    "FIELD1":"07/29/16",
+    "FIELD2":"10:05 PM",
+    "FIELD4":"Red Sox at Angels"
+  },
+  {
+    "FIELD1":"07/30/16",
+    "FIELD2":"09:05 PM",
+    "FIELD4":"Red Sox at Angels"
+  },
+  {
+    "FIELD1":"07/31/16",
+    "FIELD2":"03:35 PM",
+    "FIELD4":"Red Sox at Angels"
+  },
+  {
+    "FIELD1":"08/01/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Mariners"
+  },
+  {
+    "FIELD1":"08/02/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Mariners"
+  },
+  {
+    "FIELD1":"08/03/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Mariners"
+  },
+  {
+    "FIELD1":"08/04/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Mariners"
+  },
+  {
+    "FIELD1":"08/05/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Dodgers"
+  },
+  {
+    "FIELD1":"08/06/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Red Sox at Dodgers"
+  },
+  {
+    "FIELD1":"08/07/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Dodgers"
+  },
+  {
+    "FIELD1":"08/09/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"08/10/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"08/11/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"08/12/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"D-backs at Red Sox"
+  },
+  {
+    "FIELD1":"08/13/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"D-backs at Red Sox"
+  },
+  {
+    "FIELD1":"08/14/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"D-backs at Red Sox"
+  },
+  {
+    "FIELD1":"08/15/16",
+    "FIELD2":"01:10 PM",
+    "FIELD4":"Red Sox at Indians"
+  },
+  {
+    "FIELD1":"08/16/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"08/17/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"08/18/16",
+    "FIELD2":"01:10 PM",
+    "FIELD4":"Red Sox at Tigers"
+  },
+  {
+    "FIELD1":"08/19/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Tigers"
+  },
+  {
+    "FIELD1":"08/20/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Tigers"
+  },
+  {
+    "FIELD1":"08/21/16",
+    "FIELD2":"01:10 PM",
+    "FIELD4":"Red Sox at Tigers"
+  },
+  {
+    "FIELD1":"08/22/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"08/23/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"08/24/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"08/25/16",
+    "FIELD2":"01:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"08/26/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Royals at Red Sox"
+  },
+  {
+    "FIELD1":"08/27/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Royals at Red Sox"
+  },
+  {
+    "FIELD1":"08/28/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Royals at Red Sox"
+  },
+  {
+    "FIELD1":"08/29/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"08/30/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"08/31/16",
+    "FIELD2":"01:35 PM",
+    "FIELD4":"Rays at Red Sox"
+  },
+  {
+    "FIELD1":"09/02/16",
+    "FIELD2":"10:05 PM",
+    "FIELD4":"Red Sox at Athletics"
+  },
+  {
+    "FIELD1":"09/03/16",
+    "FIELD2":"09:05 PM",
+    "FIELD4":"Red Sox at Athletics"
+  },
+  {
+    "FIELD1":"09/04/16",
+    "FIELD2":"04:05 PM",
+    "FIELD4":"Red Sox at Athletics"
+  },
+  {
+    "FIELD1":"09/05/16",
+    "FIELD2":"04:40 PM",
+    "FIELD4":"Red Sox at Padres"
+  },
+  {
+    "FIELD1":"09/06/16",
+    "FIELD2":"10:10 PM",
+    "FIELD4":"Red Sox at Padres"
+  },
+  {
+    "FIELD1":"09/07/16",
+    "FIELD2":"09:10 PM",
+    "FIELD4":"Red Sox at Padres"
+  },
+  {
+    "FIELD1":"09/09/16",
+    "FIELD2":"07:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"09/10/16",
+    "FIELD2":"01:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"09/11/16",
+    "FIELD2":"01:07 PM",
+    "FIELD4":"Red Sox at Blue Jays"
+  },
+  {
+    "FIELD1":"09/12/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"09/13/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"09/14/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Orioles at Red Sox"
+  },
+  {
+    "FIELD1":"09/15/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"09/16/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"09/17/16",
+    "FIELD2":"01:05 PM",
+    "FIELD4":"Yankees at Red Sox"
+  },
+  {
+    "FIELD1":"09/18/16",
+    "FIELD2":"",
+    "FIELD4":"Yankees at Red Sox - Time TBD"
+  },
+  {
+    "FIELD1":"09/19/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"09/20/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"09/21/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"09/22/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Orioles"
+  },
+  {
+    "FIELD1":"09/23/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"09/24/16",
+    "FIELD2":"06:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"09/25/16",
+    "FIELD2":"01:10 PM",
+    "FIELD4":"Red Sox at Rays"
+  },
+  {
+    "FIELD1":"09/27/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"09/28/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"09/29/16",
+    "FIELD2":"07:05 PM",
+    "FIELD4":"Red Sox at Yankees"
+  },
+  {
+    "FIELD1":"09/30/16",
+    "FIELD2":"07:10 PM",
+    "FIELD4":"Blue Jays at Red Sox"
+  },
+  {
+    "FIELD1":"10/01/16",
+    "FIELD2":"",
+    "FIELD4":"Blue Jays at Red Sox - Time TBD"
+  },
+  {
+    "FIELD1":"10/02/16",
+    "FIELD2":"03:05 PM",
+    "FIELD4":"Blue Jays at Red Sox"
+  }
+]
